@@ -19,3 +19,7 @@ nmrulink{
  color: #3366ff;
 }
 
+.bg-cover{
+ background: #9900ff url(EmMojPrUYAQho6K.jpg) no-repeat center center / cover;
+ height: 200px;
+}
