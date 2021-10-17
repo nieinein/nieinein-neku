@@ -1,20 +1,29 @@
+body{
+    margin: 0;
+    width: 1280px;
+    height: 720px;
+    background-image: url(https://github.com/nieinein/nieinein.github.io/blob/main/EmMojPrUYAQho6K.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 midashi{
- font-family: "TsukuARdGothic-Regular";
- font-weight: 400;
- font-size: 24px;
- color: #00fa9a;
-}
-
+    font-family: "TsukuARdGothic-Regular";
+    font-weight: 400;
+    font-size: 24px;
+    color: #00fa9a;
+   }
+   
 nmru{
- font-family: "TsukuARdGothic-Regular";
- font-weight: 400;
- font-size: 16px;
- color: #9900ff;
+    font-family: "TsukuARdGothic-Regular";
+    font-weight: 400;
+    font-size: 16px;
+    color: #9900ff;
 }
-
+   
 nmrulink{
- font-family: "TsukuARdGothic-Regular";
- font-weight: 400;
- font-size: 16px;
- color: #3366ff;
+    font-family: "TsukuARdGothic-Regular";
+    font-weight: 400;
+    font-size: 16px;
+    color: #3366ff;
 }
