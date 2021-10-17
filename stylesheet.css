@@ -1,26 +1,26 @@
 body{
     background-image: url(https://github.com/nieinein/nieinein.github.io/blob/main/EmMojPrUYAQho6K.jpg?raw=true);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-size: cover;
 }
 
 midashi{
     font-family: "TsukuARdGothic-Regular";
     font-weight: 400;
-    font-size: 70px;
+    font-size: 50px;
     color: #00fa9a;
    }
    
 nmru{
     font-family: "TsukuARdGothic-Regular";
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     color: #9900ff;
 }
    
 nmrulink{
     font-family: "TsukuARdGothic-Regular";
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
     color: #3366ff;
 }
